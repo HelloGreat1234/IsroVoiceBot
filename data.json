@@ -902,6 +902,20 @@
             "context": [
                 ""
             ]
+        },
+        {
+            "tag": "Best Person",
+            "patterns": [
+                "who is the best Person in the world",
+                "Who is the most handsome person in the world",
+                "who is the most talented person in the world"
+            ],
+            "responses": [
+                "Garvit Gupta is no doubt the Best of the Best, there is no one like him"
+            ],
+            "context": [
+                ""
+            ]
         }
     ]
 }
